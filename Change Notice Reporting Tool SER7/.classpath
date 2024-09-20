@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="log4j/" kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/Siemens/Teamcenter12/fede/tccs/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="soa_jars/commons-codec-1.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/fccclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/fscclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/httpclient-4.5.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/httpcore-4.4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/httpmime-4.5.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/jaxb-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/tcmemjavabinding.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/tcserverjavabinding.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaAdministrationStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaClient_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaCommon_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaCoreStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaGlobalMultiSiteStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaManufacturingStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaQueryStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaStrongModel_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcSoaWorkflowStrong_14000.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/teamcenter_sso_applib.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/teamcenter_sso_common.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/teamcenter_sso_ldapcustom.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/teamcenter_sso_webtoolkit.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="other_jars/jansi-1.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/commons-csv-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/log4j-1.2-api-2.17.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/log4j-api-2.17.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/log4j-core-2.17.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/commons-collections4-4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/commons-csv-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/poi-3.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/poi-ooxml-3.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="excel_jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="soa_jars/TcLogging.jar"/>
+	<classpathentry kind="lib" path="soa_jars/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="soa_jars/jakarta.activation.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
